@@ -1,0 +1,12 @@
+/Users/ddavi/Projects/Common/Common.Droid/obj/Debug/MonoAndroid,Version=v6.0.AssemblyAttribute.cs
+/Users/ddavi/Projects/Common/Common.Droid/obj/Debug/Common.Droid.obj.Debug.__AndroidLibraryProjects__.zip
+/Users/ddavi/Projects/Common/Common.Droid/bin/Debug/Common.Droid.dll.mdb
+/Users/ddavi/Projects/Common/Common.Droid/bin/Debug/Common.Droid.dll
+/Users/ddavi/Projects/Common/Common.Droid/bin/Debug/Common.Droid.apk
+/Users/ddavi/Projects/Common/Common.Droid/obj/Debug/android/bin/Common.Droid.apk
+/Users/ddavi/Projects/Common/Common.Droid/obj/Debug/res/values/strings.xml
+/Users/ddavi/Projects/Common/Common.Droid/obj/Debug/R.cs.flag
+/Users/ddavi/Projects/Common/Common.Droid/bin/Debug/Common.Droid-Signed.apk
+/Users/ddavi/Projects/Common/Common.Droid/obj/Debug/uploadflags.txt
+/Users/ddavi/Projects/Common/Common.Droid/obj/Debug/Common.Droid.dll
+/Users/ddavi/Projects/Common/Common.Droid/obj/Debug/Common.Droid.dll.mdb

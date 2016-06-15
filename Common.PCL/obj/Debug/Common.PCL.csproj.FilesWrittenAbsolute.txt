@@ -1,0 +1,5 @@
+/Users/ddavi/Projects/Common/Common.PCL/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/ddavi/Projects/Common/Common.PCL/bin/Debug/Common.PCL.dll.mdb
+/Users/ddavi/Projects/Common/Common.PCL/bin/Debug/Common.PCL.dll
+/Users/ddavi/Projects/Common/Common.PCL/obj/Debug/Common.PCL.dll
+/Users/ddavi/Projects/Common/Common.PCL/obj/Debug/Common.PCL.dll.mdb

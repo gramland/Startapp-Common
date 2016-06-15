@@ -1,0 +1,6 @@
+/Users/ddavi/Projects/Common/Common.iOS/obj/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/ddavi/Projects/Common/Common.iOS/obj/Debug/optimized/
+/Users/ddavi/Projects/Common/Common.iOS/bin/Debug/Common.iOS.dll.mdb
+/Users/ddavi/Projects/Common/Common.iOS/bin/Debug/Common.iOS.dll
+/Users/ddavi/Projects/Common/Common.iOS/obj/Debug/Common.iOS.dll
+/Users/ddavi/Projects/Common/Common.iOS/obj/Debug/Common.iOS.dll.mdb
